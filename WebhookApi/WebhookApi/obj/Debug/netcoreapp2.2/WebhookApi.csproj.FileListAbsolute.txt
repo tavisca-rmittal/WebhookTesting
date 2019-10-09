@@ -1,0 +1,14 @@
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.2\WebhookApi.deps.json
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.2\WebhookApi.runtimeconfig.json
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.2\WebhookApi.runtimeconfig.dev.json
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.2\WebhookApi.dll
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\bin\Debug\netcoreapp2.2\WebhookApi.pdb
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.csprojResolveAssemblyReference.cache
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.csproj.CoreCompileInputs.cache
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.RazorAssemblyInfo.cache
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.RazorAssemblyInfo.cs
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.AssemblyInfoInputs.cache
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.AssemblyInfo.cs
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.RazorTargetAssemblyInfo.cache
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.dll
+C:\Users\rmittal\Desktop\TAVISCA\WebhookApi\WebhookApi\obj\Debug\netcoreapp2.2\WebhookApi.pdb
